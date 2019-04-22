@@ -1,0 +1,195 @@
+.navbar-brand {
+    width: 268px;
+    height: 33px;
+    margin-left: 3%;
+}
+#navbarNavDropdown {
+    padding-left: 50%;
+}
+.lead-logo img {
+    padding-top: 12%;
+}
+.lead-title h1 {
+    color: #00b39b;
+    font-size: 2.125rem;
+    text-align: center;
+    margin: 2%;
+    font-weight: 100;
+}
+.service-section-inner {
+    display:flex;
+    justify-content: center;
+}
+.lead p {
+    line-height: 1.5rem;
+    font-weight: 200;
+    font-size: 1rem;
+    color: #747474;
+}
+h2 {
+    font-size: .875rem;
+    color: #fff;
+    margin-top: 5%;
+    margin-left: 5%;
+    font-weight: 200;
+}
+.chart-for-patients {
+    background-color:#00b39b;
+    border-radius: 3%;
+    overflow: hidden;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 1%;
+}
+.chart-for-doctors {
+    background-color: #3d83df;
+    border-radius: 3%;
+    overflow: hidden;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 1%;
+}
+.chart-for-patients p {
+    font-weight: 100;
+    color: white;
+    font-size: 1.9rem;
+    line-height: 125%;
+    margin-left: 5%
+}
+.chart-for-patients img {
+    margin-top: 3%;
+    margin-left: 12%;
+}
+.chart-for-doctors p {
+    font-weight: 100;
+    color: white;
+    font-size: 1.9rem;
+    line-height: 125%;
+    margin-left: 5%;
+}
+.chart-for-doctors img {
+    margin-left: 40%;
+    margin-top: 3%;   
+}
+
+.for-patients-card {
+    display: flex
+}
+.selector {
+    height: 40px;
+    background-color: white transparent;
+    border-radius: 2%;
+    font-family: sans-serif;
+    font-size: 5%;
+    font-weight: 100;
+    margin-left: 5%;
+    text-transform: uppercase;
+}   
+.brand h1 {
+    color: #00b39b;
+    font-size: 1.625rem;
+    text-align: left;
+    margin: 2%;
+    font-weight: 100;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.brand-logos svg {
+    height: 20px;
+    margin-top: 2%;
+}
+.brand-logos {
+    margin-top: 4%;
+    position: relative;
+    left: 4%;
+}
+.stats {
+    background-image: url(docplanner-stats.png);
+}
+.stats-header h1 {
+    font-size: 2.125rem;
+    color: #00b39b;
+    font-weight: 100;
+    padding-top: 15%;
+    line-height: 125%;
+}
+.stats-header p {
+    margin-top: 5%;
+    margin-bottom: 1rem;
+    font-size: .8rem;
+    line-height: 1.8;
+    color: #747474;
+}
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.fade-elements-visible {
+    text-align: center;
+    margin-top: 7%;
+    margin-bottom: 6%;
+    margin-left: -5%;
+    
+}
+.fade-elements-A {
+    margin-top: 4%;
+}
+.fade-elements-A1 {
+    margin-bottom: 10%;
+    background: white;
+    border-radius: 3%;
+    padding: 5%;
+}
+.fade-elements-A2 {
+    background: white;
+    border-radius: 3%;
+    padding: 5%;
+}
+/* .fade-elements-B {
+    background: white;
+    border-radius: 2%;
+    right: 2%; } */
+
+.fade-elements-B1 {
+    background: white;
+    margin-bottom: 10%;
+    border-radius: 3%;
+    padding: 5%;
+}
+.fade-elements-B2 {
+    background: white;
+    border-radius: 3%;
+    padding: 5%;
+}
+.fade-elements-visible h3 {
+    font-size: 1.44em;
+    color: #00b39b;
+    font-weight: 100;
+    margin: .5em 0;
+    letter-spacing: .3px;
+    line-height: 125%;
+}
+.fade-elements-visible p {
+    color: #747474;
+    font-size: .875rem;
+}
+.offices-header h1 {
+    font-size: 1.8em;
+    color: #00b39b;
+    font-weight: 100;
+    padding: 2%;
+    line-height: 130%;
+}
+.offices-header p {
+    color: #747474;
+}
+footer .section-inner {
+    zoom: 1;
+    max-width: 900px;
+    padding: 0 20px;
+    margin: 0 auto;
+    position: relative;
+    padding-top: 3%;
+    font-size: .9em;
+    color: #747474;
+}
